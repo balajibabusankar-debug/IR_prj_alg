@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.scikit_learn_data/
+bbc-text.csv
+results/*
+!results/.gitkeep
